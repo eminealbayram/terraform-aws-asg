@@ -1,9 +1,9 @@
-# terraform-aws-asg
+# Please copy paste below code
 
 
 ```
 module "asg" {
-    source = ""
+    source = "eminealbayram/asg/aws"
 }
 
 ```
